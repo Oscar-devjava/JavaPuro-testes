@@ -30,7 +30,5 @@ public class TestaContaComTitular {
 		System.out.println("Titular teste3:\n"+  c3.getNomeTitular().nome+"\n"+"Titular teste4:\n"+  c4.getNomeTitular().nome);
 		
 		
-		
-		
 	}
 }
