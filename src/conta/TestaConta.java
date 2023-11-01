@@ -10,7 +10,7 @@ public class TestaConta {
 		c.transfre(c2, 1254);
 		c.transfre(c2, 40);
 		
-		System.out.println("------------");
+ 		System.out.println("------------");
 		c2.setNomeTitular("Joao Ferreira");
 		System.out.println("CONTA \n"+"Titular: " + c2.getNomeTitular() +"\n"+ "Saldo: "+c2.mostraSaldo());
 		
