@@ -18,6 +18,9 @@ public class Fluxo {
 
 	private static void metodo3() {
 		System.out.println("Inicia metodo3");
+		for (int i = 1; i <=5; i++) {
+			System.out.println(i);
+		}
 		System.out.println("Finaliza metodo3");
 		
 	}
